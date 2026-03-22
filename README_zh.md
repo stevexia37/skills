@@ -19,6 +19,7 @@
 | `minimax-pdf` | 基于 token 化设计系统生成、填写和重排 PDF 文档。支持三种模式：CREATE（从零生成，15 种封面风格）、FILL（填写现有表单字段）、REFORMAT（将已有文档重排为新设计）。排版与配色由文档类型自动推导，输出即可打印。 |
 | `pptx-generator` | 生成、编辑和读取 PowerPoint 演示文稿。支持用 PptxGenJS 从零创建（封面、目录、内容、分节页、总结页），通过 XML 工作流编辑现有 PPTX，或用 markitdown 提取文本。 |
 | `minimax-xlsx` | 打开、创建、读取、分析、编辑或验证 Excel/电子表格文件（.xlsx、.xlsm、.csv、.tsv）。支持通过 XML 模板从零创建 xlsx、使用 pandas 读取分析、零格式损失编辑现有文件、公式重算与验证、专业财务格式化。 |
+| `minimax-docx` | 基于 OpenXML SDK（.NET）的专业 DOCX 文档创建、编辑与排版。三条流水线：从零创建新文档、填写/编辑现有文档内容、应用模板格式并通过 XSD 验证门控检查。 |
 
 ## 安装
 

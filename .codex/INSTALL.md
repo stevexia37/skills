@@ -38,6 +38,7 @@ Enable MiniMax skills in Codex via native skill discovery. Just clone and symlin
 - **minimax-pdf** — Generate, fill, and reformat PDF documents with a token-based design system
 - **pptx-generator** — Generate, edit, and read PowerPoint presentations
 - **minimax-xlsx** — Open, create, read, analyze, edit, or validate Excel/spreadsheet files
+- **minimax-docx** — Professional DOCX document creation, editing, and formatting using OpenXML SDK
 
 ## Verify
 
